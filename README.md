@@ -10,3 +10,5 @@ $ yarn run dev
 
 browse to [http://localhost:3000/info](http://localhost:3000/info)
 ```
+
+CODE: [src/app/info/route.ts](src/app/info/route.ts)
